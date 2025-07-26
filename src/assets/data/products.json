@@ -1,0 +1,166 @@
+{
+  "topProducts": [
+    {
+      "id": 1,
+      "title": "Batería externa OEM 10000 mAh, MagSafe, para iPhone, blanco",
+      "description": "Carga rápida y eficiente con el Cargador Portátil MagSafe de 10,000 mAh\nMantén tu iPhone.",
+      "image": "https://coolboxpe.vtexassets.com/arquivos/ids/445419-1200-1200?v=638811052858900000&width=1200&height=1200&aspect=true",
+      "reviews": [
+        {
+          "name": "Carlos Mendoza",
+          "time": "hace 2 meses",
+          "rating": 5,
+          "comment": "Carga súper rápida, diseño elegante y queda perfecto en mi escritorio."
+        },
+        {
+          "name": "María Rodríguez",
+          "time": "hace 1 mes",
+          "rating": 4,
+          "comment": "Excelente velocidad de carga, pero podría ser un poco más grande para celulares grandes."
+        },
+        {
+          "name": "David Pinto",
+          "time": "hace 3 semanas",
+          "rating": 5,
+          "comment": "Perfecto para mi oficina. Carga varios dispositivos rápidamente."
+        }
+      ],
+      "url": "https://www.coolbox.pe/bateria-externa-cargador-portatil-magsafe-para-iphone-de-10000-mah-100433765/p"
+    },
+    {
+      "id": 2,
+      "title": "Cargador OEM inalámbrico MagSafe, carga 15W",
+      "description": "Carga rápida y sin cables\nDisfruta de la comodidad de cargar tu iPhone sin cables con el Cargador Inalámbrico MagSafe de 15W.",
+      "image": "https://coolboxpe.vtexassets.com/arquivos/ids/445365-1600-1600?v=638810445200630000&width=1600&height=1600&aspect=true",
+      "reviews": [
+        {
+          "name": "Sofía Benítez",
+          "time": "hace 1 mes",
+          "rating": 5,
+          "comment": "Bloquea las distracciones perfectamente, calidad de sonido excelente y muy cómodos. Vale cada sol invertido."
+        },
+        {
+          "name": "Alejandro Torres",
+          "time": "hace 2 semanas",
+          "rating": 5,
+          "comment": "Increíble cancelación de ruido. Perfecto para mi viaje diario al trabajo."
+        },
+        {
+          "name": "Lucia Chang",
+          "time": "hace 1 semana",
+          "rating": 4,
+          "comment": "Excelente calidad de sonido y muy cómodos para sesiones largas de música."
+        }
+      ],
+      "url": "https://www.coolbox.pe/cargador-inalambrico-magsafe---carga-15w-para-iphone-100433757/p"
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro 14 Chip M4 512GB SSD 24 GB RAM.",
+      "description": "MacBook Pro 14 M4 – 512GB SSD, 24GB RAM, Teclado Inglés, Space Black.",
+      "image": "https://coolboxpe.vtexassets.com/arquivos/ids/445089-1600-1600?v=638809545479000000&width=1600&height=1600&aspect=true",
+      "reviews": [
+        {
+          "name": "Luis Huaranca",
+          "time": "hace 3 semanas",
+          "rating": 5,
+          "comment": "Portátil, calidad de sonido impresionante, excelente duración de batería. Perfecto para actividades al aire libre o en casa."
+        },
+        {
+          "name": "Emma Villanueva",
+          "time": "hace 2 semanas",
+          "rating": 5,
+          "comment": "Me encanta la portabilidad y la calidad de sonido. ¡Perfecto para ir a la playa!"
+        },
+        {
+          "name": "Carlos Méndez",
+          "time": "hace 1 semana",
+          "rating": 4,
+          "comment": "Excelente parlante por el precio. La batería dura muchísimo tiempo."
+        }
+      ],
+      "url": "https://www.coolbox.pe/macbook-pro-14--chip-m4-512gb-ssd-24-gb-ram-macos-teclado-ingles-24h-bateria-space-black-100433653/p"
+    },
+    {
+      "id": 4,
+      "title": "MacBook Air 13 Chip M4 256GB SSD 16GB RAM",
+      "description": "MacBook Air 13 M4 – 256GB SSD, 16GB RAM, Teclado Inglés, Silver.",
+      "image": "https://coolboxpe.vtexassets.com/arquivos/ids/445102-1200-1200?v=638809550539300000&width=1200&height=1200&aspect=true",
+      "reviews": [
+        {
+          "name": "Sara Jiménez",
+          "time": "hace 1 mes",
+          "rating": 5,
+          "comment": "Increíbles funciones de seguimiento físico y excelente duración de batería. ¡Me encantan las notificaciones!"
+        },
+        {
+          "name": "Miguel Dávila",
+          "time": "hace 2 semanas",
+          "rating": 4,
+          "comment": "Excelente reloj para entrenamientos. El seguimiento GPS es muy preciso."
+        },
+        {
+          "name": "Ana García",
+          "time": "hace 1 semana",
+          "rating": 5,
+          "comment": "Perfecto para mis carreras diarias y el monitor de frecuencia cardíaca es súper exacto."
+        }
+      ],
+      "url": "https://www.coolbox.pe/macbook-air-13--256gb-ssd-16gb-ram-chip-m4-teclado-ingles-18h-de-bateria-silver-100433655/p"
+    },
+    {
+      "id": 5,
+      "title": "MacBook Air 13 Chip M4 256GB SSD 16GB RAM",
+      "description": "MacBook Air 13 M4 – 256GB SSD, 16GB RAM, Teclado Inglés, Starlight",
+      "image": "https://coolboxpe.vtexassets.com/arquivos/ids/445097-1200-1200?v=638809548756300000&width=1200&height=1200&aspect=true",
+      "reviews": [
+        {
+          "name": "Javier Quispe",
+          "time": "hace 3 semanas",
+          "rating": 5,
+          "comment": "Precisión increíble y la iluminación RGB es impresionante. Perfecto para gaming competitivo."
+        },
+        {
+          "name": "Raquel León",
+          "time": "hace 2 semanas",
+          "rating": 4,
+          "comment": "Excelente mouse, muy responsivo. El software para personalización es fácil de usar."
+        },
+        {
+          "name": "Tomás Andrade",
+          "time": "hace 1 semana",
+          "rating": 5,
+          "comment": "El mejor mouse gamer que he usado. Las configuraciones de DPI son perfectas para juegos FPS."
+        }
+      ],
+      "url": "https://www.coolbox.pe/macbook-air-13--256gb-ssd-16gb-ram-chip-m4-teclado-ingles-18h-de-bateria-starlight-100433654/p"
+    },
+    {
+      "id": 6,
+      "title": "Batería externa OEM cargador portátil MagSafe 5000 mAh",
+      "description": "Batería Externa MagSafe para iPhone de 5,000 mAh\nLa batería externa portátil MagSafe de 5,000 mAh de Baseus",
+      "image": "https://coolboxpe.vtexassets.com/arquivos/ids/445396-1200-1200?v=638811042349300000&width=1200&height=1200&aspect=true",
+      "reviews": [
+        {
+          "name": "Christian Martínez",
+          "time": "hace 1 mes",
+          "rating": 5,
+          "comment": "Experiencia de tipeo increíble. Los switches mecánicos se sienten fabulosos y la calidad de construcción es de primera."
+        },
+        {
+          "name": "Jessica Bravo",
+          "time": "hace 2 semanas",
+          "rating": 4,
+          "comment": "Excelente teclado para programar. La respuesta táctil ayuda mucho en sesiones largas de código."
+        },
+        {
+          "name": "Ryan Torres",
+          "time": "hace 1 semana",
+          "rating": 5,
+          "comment": "Perfecto para gaming y escribir. La retroiluminación RGB es hermosa y personalizable."
+        }
+      ],
+      "url": "https://www.coolbox.pe/bateria-externa-cargador-portatil-magsafe-para-iphone-de-5000-mah-100433762/p"
+    }
+  ]
+}
